@@ -1,10 +1,10 @@
-# <DiceRoller>
+# DiceRoller
 
 An Android application that simulates a dice roll.
 
-Submitted by: <Allan Atton>
+Submitted by: Allan Atton
 
-Time spent: <2 hours>
+Time spent: 2 hours
 
 ## User Stories
 
@@ -31,7 +31,7 @@ Describe any challenges encountered while building the app.
 
 ## License
 
-Copyright 2018 <Allan Atton>
+Copyright 2018 Allan Atton
 
 Licensed under the Apache License, Version 2.0 (the "License");
 you may not use this file except in compliance with the License.
